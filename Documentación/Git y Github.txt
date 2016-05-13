@@ -1,0 +1,34 @@
+Herramienta github
+
+Git:
+
+-Sistema de control de versiones que se encarga de guardar proyectos como códigos de java y documentos
+es muy buena utilización para los programadores, se pueden editar documentos.
+
+-Resuelve problemas aquellos que tienen que resolver problemas de códigos de fuente especialmente 
+para las personas programadoras
+
+un SCM es una herramienta que nos resuelve una seria de problemas que pueden ser:
+
+Ficheros HTML/CSS/Javascript
+Ficheros PHP
+Ficheros de configuración
+Documentación
+
+Github:
+
+Es una forma para alojar proyectos utilizados en el sitema de control de versiones.
+Utiliza el framework Ruby.
+Se dio a conocer el nombre de GitHub en el 2010
+El código, documento se puede almacenar de manera pública o privada
+
+Principales comandos Git y GitHub:
+
+pwd : Ubicación
+ls : Lista directorio
+git init : Inicializar
+git status : Estado
+git log : Historial de cambios
+git add : Agregar para comenzar hacer un commit
+git remote add : Para conectar
+git push and pull : Hacer commit enviar al repositorio o extraer

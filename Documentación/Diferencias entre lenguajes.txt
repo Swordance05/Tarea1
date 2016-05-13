@@ -1,0 +1,22 @@
+Diferencias entre C, C++ / C#
+C : 
+-Fue el primero y es un lenguaje simple, para su comienzo fue estructurado.
+-Implementa solo procesos y funciones.
+-Tiene un lenguaje llamado Modula2 que sirve a base de pascal
+-Guarda sus extensiones con .c para hacer referencia solo a C
+-Los operadores lógicos se representan || && !
+
+C++:
+-Este lenguaje tiene la capacidad de de programar OOP
+-Es una extension de C
+-Los compiladores son modernos (leer lenguaje maquina)
+-Es popular para la creación de videojuegos.
+-La extension se guardara con .cpp solamente para hacer referencia a C++
+-Operadores lógicos and or not
+
+C#:
+-Capacidad de la plataforma .NET.
+-Es implementada por la microsoft.
+-Es un lenguaje de alto nivel.
+-Es similarmente a java pero tiene diferencia de sintaxis.
+-Se creean las aplicaciones para windows
