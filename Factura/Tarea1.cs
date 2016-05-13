@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Factura
 {
-    class Program
+    class Tarea1
     {
         static String nombre = " ";
         static String telefono = " ";
